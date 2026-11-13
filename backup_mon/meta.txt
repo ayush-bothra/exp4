@@ -1,0 +1,7 @@
+date:      2026-10-08T17:53:08+05:30
+kernel:    7.0.0-38-generic
+cpus:      12
+cpu:       AMD Ryzen 5 6600H with Radeon Graphics
+governor:  performance
+NAME    ROTA   SIZE MODEL
+nvme0n1    0 476.9G KINGSTON OM8PGP4512Q-AA
